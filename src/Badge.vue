@@ -11,6 +11,7 @@ import { computed  } from 'vue';
 
 const StatusToColor = {
     "Active" : "green",
+    "Paid" : "green",
     "UnPaid" : "orange",
     "Error" : "red",
     "InActive" : "red",
